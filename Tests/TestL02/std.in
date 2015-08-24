@@ -1,0 +1,5 @@
+R r01 10 10 5 5
+LOAD save.txt
+LOAD save02.txt
+LIST
+EXIT

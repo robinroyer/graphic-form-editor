@@ -1,0 +1,14 @@
+OK
+#New object: r01
+OK
+#New object: r02
+OK
+#New object: r03
+OK
+#New object: s01
+R r01 10 10 20 20
+R r02 0 0 20 20
+R r03 5 5 30 30
+OK
+#Objects sucsessfully removed
+R r03 5 5 30 30

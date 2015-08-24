@@ -1,0 +1,4 @@
+ERR
+#file "inexistant.txt" couldn't be opened in read mode
+ERR
+#file "" couldn't be opened in read mode

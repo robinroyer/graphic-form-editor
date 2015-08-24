@@ -1,0 +1,53 @@
+OK
+#New object: r01
+R r01 10 10 5 5
+OK
+#Last command successfully 'undo'ed
+OK
+#New object: c01
+C c01 10 10 5
+OK
+#Last command successfully 'undo'ed
+OK
+#New object: l01
+L l01 10 10 5 5
+OK
+#Last command successfully 'undo'ed
+OK
+#New object: pl01
+L pl01 12 21 36 63 98 89 82 25
+OK
+#Last command successfully 'undo'ed
+OK
+#New object: r02
+OK
+#Object sucessfully moved
+R r02 15 15 10 10
+OK
+#Last command successfully 'undo'ed
+R r02 10 10 5 5
+OK
+#New object: r03
+OK
+#Objects sucsessfully removed
+R r02 10 10 5 5
+OK
+#Last command successfully 'undo'ed
+R r02 10 10 5 5
+R r03 10 10 5 5
+OK
+#file successfully loaded
+C c10 5 7 9
+L pl10 78 9 91 46 42 21 1337 14641
+R r02 10 10 5 5
+R r03 10 10 5 5
+OK
+#Last command successfully 'undo'ed
+R r02 10 10 5 5
+R r03 10 10 5 5
+OK
+#Objects cleared
+OK
+#Last command successfully 'undo'ed
+R r02 10 10 5 5
+R r03 10 10 5 5

@@ -1,0 +1,5 @@
+LOAD save.txt
+LIST
+LOAD save02.txt
+LIST
+EXIT

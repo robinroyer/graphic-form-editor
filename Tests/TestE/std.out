@@ -1,0 +1,6 @@
+OK
+#New object: r01
+OK
+#New object: r02
+R r01 10 10 5 5
+R r02 20 20 10 10

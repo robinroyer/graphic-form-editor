@@ -1,0 +1,11 @@
+OK
+#New object: r01
+OK
+#Objects sucsessfully removed
+OK
+#Last command successfully 'undo'ed
+OK
+#Last command successfully 'redo'ed
+OK
+#Last command successfully 'undo'ed
+R r01 10 10 5 5

@@ -1,0 +1,34 @@
+OK
+#New object: r01
+OK
+#New object: r02
+OK
+#New object: r03
+OK
+#New object: r04
+OK
+#New object: r05
+OK
+#New object: r06
+OK
+#New object: s01
+R r01 10 10 5 5
+R r02 20 20 10 10
+R r03 10 10 5 5
+R r04 20 20 10 10
+R r05 10 10 5 5
+R r06 20 20 10 10
+OK
+#Objects sucsessfully removed
+R r02 20 20 10 10
+R r03 10 10 5 5
+R r04 20 20 10 10
+R r05 10 10 5 5
+R r06 20 20 10 10
+OK
+#Objects sucsessfully removed
+R r04 20 20 10 10
+R r05 10 10 5 5
+R r06 20 20 10 10
+OK
+#Objects sucsessfully removed

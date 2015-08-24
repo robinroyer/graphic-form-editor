@@ -1,0 +1,7 @@
+LOAD inexistant.txt
+LIST
+LOAD save.txt
+LIST
+LOAD
+LIST
+EXIT
